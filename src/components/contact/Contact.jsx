@@ -30,7 +30,8 @@ function Contact() {
           </article>
         </div>
         {/*END OF CONTACT OPTIONS*/}
-        <form action="">
+        <form class="contact__form"  action="https://formspree.io/f/mjvzzwnr"
+      method="POST">
           <input type="text" name='name' placeholder='Your Full Name' required/>
           <input type="email" name='email' placeholder="Your Email" required/>
           <textarea name="message" name="7" placeholder='Your Message' required>
