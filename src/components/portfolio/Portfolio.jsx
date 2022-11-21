@@ -18,7 +18,7 @@ const data = [
     image: IMG2,
     title: '반응형 웹사이트',
     github:"https://github.com/jjinvely/website",
-    demo:"https://react-sites2.netlify.app/"    
+    demo:"https://gofor-it.netlify.app/"    
   },
   {
     id: 3,
