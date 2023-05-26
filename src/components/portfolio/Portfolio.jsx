@@ -11,7 +11,7 @@ const data = [
     image: IMG1,
     title: '리뉴얼 반응형 웹사이트',
     github:"https://github.com/jjinvely/portfolio",
-    demo: "http://jjin2.dothome.co.kr/"
+    demo: "https://groverenewal.netlify.app/"
   },
   {
     id: 2,
