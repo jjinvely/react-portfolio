@@ -16,28 +16,28 @@ function Experience() {
             <BsPatchCheckFill className="experience__details-icon"/>
             <div>
             <h4>HTML</h4>
-            <small className="text-light">Experienced</small>
+            <small className="text-light">very good</small>
             </div>          
           </article>
           <article className="experience__details">
             <BsPatchCheckFill className="experience__details-icon"/>
             <div>
             <h4>CSS</h4>
-            <small className="text-light">Experienced</small>
+            <small className="text-light">very good</small>
             </div>      
           </article>
           <article className="experience__details">
             <BsPatchCheckFill className="experience__details-icon"/>
             <div>
             <h4>jQuery</h4>
-            <small className="text-light">Experienced</small>
+            <small className="text-light">good</small>
             </div>      
           </article>
           <article className="experience__details">
             <BsPatchCheckFill className="experience__details-icon"/>
             <div>
             <h4>Javascript</h4>
-            <small className="text-light">Experienced</small>
+            <small className="text-light">good</small>
             </div>      
           </article>
           <article className="experience__details">
@@ -51,14 +51,14 @@ function Experience() {
             <BsPatchCheckFill className="experience__details-icon"/>
             <div>
             <h4>Photoshop</h4>
-            <small className="text-light">Experienced</small>
+            <small className="text-light">good</small>
             </div>      
           </article>
           <article className="experience__details">
             <BsPatchCheckFill className="experience__details-icon"/>
             <div>
             <h4>Illustrate</h4>
-            <small className="text-light">Experienced</small>
+            <small className="text-light">good</small>
             </div>      
           </article>
         </div>

@@ -37,7 +37,7 @@ const data=[
 function Testimonials() {
   return (
     <section id="testimonials">
-      <h5>Review from peope in office</h5>
+      <h5>Review from people in office</h5>
       <h2>Testimonials</h2>
       <Swiper className="container testimonials__container"
        modules={[Pagination]}
