@@ -32,7 +32,7 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: '반응형 웹사이트',
+    title: '리액트 웹사이트',
     github:"https://github.com/jjinvely/website",
     demo:"https://gofor-it.netlify.app/"    
   },
