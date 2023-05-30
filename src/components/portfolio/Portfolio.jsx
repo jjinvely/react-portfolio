@@ -17,19 +17,33 @@ const data = [
     id: 2,
     image: IMG2,
     title: '반응형 웹사이트',
-    github:"https://github.com/jjinvely/website",
-    demo:"https://gofor-it.netlify.app/"    
+    github:"http://gemglovis.com/",
+    demo:"http://gemglovis.com/"    
   },
   {
     id: 3,
     image: IMG3,
+    title: '반응형 웹사이트',
+    github:"http://designmadeby.com/",
+    demo:"http://designmadeby.com/"    
+  },
+  {
+    id: 4,
+    image: IMG4,
+    title: '반응형 웹사이트',
+    github:"https://github.com/jjinvely/website",
+    demo:"https://gofor-it.netlify.app/"    
+  },
+  {
+    id: 5,
+    image: IMG5,
     title: '리액트 웹사이트',
     github:"https://github.com/jjinvely/react-site2-3__",
     demo:"https://react-sites2.netlify.app/"    
   },
   {
-    id: 4,
-    image: IMG4,
+    id: 6,
+    image: IMG6,
     title: '리액트 푸드웹사이트',
     github:"https://github.com/jjinvely/react_foodapp.github.io",
     demo: "https://reactfoodapp1.netlify.app/"
